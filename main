@@ -1,0 +1,44 @@
+<style>
+    header {
+        background: black;
+        padding-left: 30px;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+    }
+
+    body {
+        background: black;
+    }
+
+    footer {
+        background: black;
+    }
+
+    img {
+        max-width: 800px;
+        padding-top: 30px;
+        padding-left: 30px;
+    }
+
+    h2 {
+        font-size: 30px;
+        display: inline;
+        color: white;
+        padding-left: 60px;
+        padding-bottom: 20px;
+    }
+    h3 {
+        font-size: 15px;
+        display: inline; 
+        color: white;
+        padding-left: 60px;
+    }
+    a {
+        padding: 30px;
+    }
+
+    figure {
+        display: inline-block;
+        background: black;
+        max-width: 150px;
+    }
+</style>
