@@ -1,0 +1,33 @@
+<style>
+    header {
+        background: skyblue;
+    }
+
+    body {
+        background: lightpink;
+    }
+
+    footer {
+        background: skyblue;
+    }
+
+    img {
+        max-width: 150px;
+        padding-left: 30px;
+    }
+
+    h1 {
+        font-size: 100px;
+        display: inline;
+    }
+
+    a {
+        padding: 30px;
+    }
+
+    figure {
+        display: inline-block;
+        background: skyblue;
+        max-width: 150px;
+    }
+</style>
