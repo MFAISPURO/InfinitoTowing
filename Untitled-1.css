@@ -1,7 +1,7 @@
 <style>
     header {
         background: black;
-        padding-left: 30px;
+        padding-left: 100px;
         font-family: Verdana, Arial, Helvetica, sans-serif;
     }
 
@@ -14,7 +14,7 @@
     }
 
     img {
-        max-width: 800px;
+        max-width: 1080px;
         padding-top: 30px;
         padding-left: 30px;
     }
@@ -27,7 +27,7 @@
         padding-bottom: 20px;
     }
     h3 {
-        font-size: 15px;
+        font-size: 20px;
         display: inline; 
         color: white;
         padding-left: 60px;
